@@ -1,0 +1,25 @@
+.titre {color:black;
+font-family: 'Lato', sans-serif;
+  background: red;
+text-align: center;
+font-size: 50px}
+
+#rates { color:Black;
+background:red;
+text-align: center;
+text-size:40px;}
+
+.text{font-family: 'Lato', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+text-align:center;
+font-size: 40px;
+color: black;
+background: lightgrey}
+
+.data {background:lightgrey;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Archivo Black', sans-serif;}
+
+
+body {background-image: url(https://cdn.glitch.com/da89ed69-7e56-481c-92ac-10e720c41332%2FArgent%202.jpg?v=1585248194978);
+  text-align:center;
